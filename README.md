@@ -12,4 +12,6 @@ They create a new application and add the option to "Read + Write + Direct Messa
 
 <img src="/image/20210729_135344.png"/>
 
+Then generate and save the access tokens and keys
+
 [tweepy documentation](https://docs.tweepy.org/en/latest/streaming.html?highlight=Stream#using-stream)
