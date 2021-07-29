@@ -8,7 +8,7 @@
 Request a [developer account]( https://developer.twitter.com/  ) on Twitter and get access token and API keys
 the approval process takes a day or two
 
-They create a new application and add the option to "Read + Write + Direct Messages"
+They create a new application and add the option to "Read + Write + Direct Messages" in the permits
 
 <img src="/image/20210729_135344.png"/>
 
