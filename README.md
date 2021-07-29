@@ -4,3 +4,5 @@
 *pip install tweepy*
 
 *pip install python-telegram-bot*
+
+Request a developer account on Twitter and get access token and API keys
