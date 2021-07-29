@@ -33,11 +33,11 @@ api=tweepy.API(auth)
 
 """
 Write the name of the user from whom we want to receive 
-their tweets in real time in this case "twitter"
+their tweets in real time in this case "TwitterDev"
 
 """
 
-username="twitter"
+username="TwitterDev"
 
 """
 get user id
