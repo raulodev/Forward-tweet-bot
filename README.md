@@ -6,3 +6,4 @@
 *pip install python-telegram-bot*
 
 Request a developer account on Twitter and get access token and API keys
+the approval process takes a day or two
