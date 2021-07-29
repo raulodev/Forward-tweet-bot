@@ -10,4 +10,6 @@ the approval process takes a day or two
 
 They create a new application and add the option to "Read + Write + Direct Messages"
 
+<img src="/image/20210729_135344.png"/>
+
 [tweepy documentation](https://docs.tweepy.org/en/latest/streaming.html?highlight=Stream#using-stream)
