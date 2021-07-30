@@ -15,6 +15,8 @@ Follow the tweets in real time of a user, in this case the user [@TwitterDev](ht
 Request a [developer account]( https://developer.twitter.com/  ) on Twitter and get access token and API keys
 the approval process takes a day or two
 
+<img src="/image/20210730_011957.png"/>
+
 They create a new application and add the option to "Read + Write + Direct Messages" in the permits
 
 <img src="/image/20210729_135344.png"/>
