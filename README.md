@@ -1,5 +1,12 @@
 # Reenviar-Tweets-A-Telegram-con-un-bot
 ## Forward Tweets to Telegram with a bot
+
+What does this ? 
+
+Follow the tweets in real time of a user, in this case the user [@TwitterDev](https://twitter.com/TwitterDev?s=09)
+
+
+
 ### Modules
 *pip install tweepy*
 
