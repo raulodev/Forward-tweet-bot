@@ -24,3 +24,5 @@ They create a new application and add the option to "Read + Write + Direct Messa
 Then generate and save the access tokens and keys
 
 [tweepy documentation](https://docs.tweepy.org/en/latest/streaming.html?highlight=Stream#using-stream)
+
+If you want more information you can rely on [this blog](https://platzi.com/blog/extraer-datos-twitter/)
