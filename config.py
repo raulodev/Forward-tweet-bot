@@ -1,5 +1,8 @@
 import os
 
+
+TWITTER_USERNAME = os.environ ["TWITTER_USERNAME"]
+
 API_KEY = os.environ ["API_KEY"]
 
 API_SECRET_KEY = os.environ["API_SECRET_KEY"]
