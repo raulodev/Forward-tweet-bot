@@ -37,7 +37,7 @@ their tweets in real time in this case "TwitterDev"
 
 """
 
-username="TwitterDev"
+username=config.TWITTER_USERNAME
 
 """
 get user id
