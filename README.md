@@ -4,6 +4,11 @@
 
 Follow the tweets in real time from any user
 
+<b>Variables</b>
+
+`API_KEY` , `API_SECRET_KEY` , `ACCESS_TOKEN` , `ACCESS_SECRET_TOKEN`  
+
+`TWITTER_USERNAME` The twitter username of whom you wish to receive their posts
 
 
 Request a [developer account]( https://developer.twitter.com/  ) on Twitter and get access token and API keys
