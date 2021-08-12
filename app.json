@@ -1,0 +1,60 @@
+{
+    "name":"Forward Tweet Bot",
+    "description":"Un bot de Telegram para obtener tweets en tiempo real",
+    
+    "keywords":["Tweet" , "Telegram" ,"Twitter"],
+    
+    "repository":"https://github.com/inDemocratic/Forward-tweet-bot",
+    
+    "env":{
+        
+        "TWITTER_USERNAME":{
+            "description":"El nombre de usuario de twitter",
+            "value":"TwitterDev"
+            
+        },
+        
+        "API_KEY":{
+            "value":"API_KEY"
+        },
+        
+        "API_SECRET_KEY":{
+            
+            "value":"API_SECRET_KEY"
+        },
+        
+        "ACCESS_TOKEN":{
+            "value":"ACCESS_TOKEN"
+            
+        },
+        
+        "ACCESS_SECRET_TOKEN":{
+            "value":"ACCESS_SECRET_TOKEN"
+        },
+        
+        "TOKEN":{
+            "description":"TOKEN de @BotFather",
+            "value":"TOKEN"
+        },
+        
+        "CHAT_ID":{
+            "description":"CHAT_ID puede ser tu id de Telegram o el id de algún grupo o canal",
+            
+            "value":"CHAT_ID"
+        }
+    
+        
+        
+        
+        
+    },
+    
+    "buildpacks":[
+        
+        {"url":"heroku/python"}
+        
+        ],
+    
+    "stack":"heroku-20"
+    
+}
