@@ -12,7 +12,7 @@ Follow the tweets in real time from any user
 
 `TOKEN` : Token from @BotFather
 
-`CHAT_ID` : 
+`CHAT_ID` : It can be a user id or the id of a group or telegram channel, in these last two the bot must have permission to send messages
 
 <b>The first is the first</b>
 
