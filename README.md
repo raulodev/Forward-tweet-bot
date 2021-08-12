@@ -2,7 +2,7 @@
 
 <b>What does this ? </b>
 
-Follow the tweets in real time of a user, in this case the user [@TwitterDev](https://twitter.com/TwitterDev?s=09)
+Follow the tweets in real time from any user
 
 
 
