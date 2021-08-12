@@ -26,7 +26,7 @@ auth = OAuthHandler(
 
 auth.set_access_token(
 	config.ACCESS_TOKEN,
-	config.ACCESS_TOKEN_SECRET
+	config.ACCESS_SECRET_TOKEN
 	)
 api=tweepy.API(auth)
 
