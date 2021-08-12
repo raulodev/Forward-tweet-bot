@@ -127,7 +127,7 @@ def Sthread():
 
 def start(Update,context):
 	
-	Update.message.reply_text("Hello") 
+	Update.message.reply_text("Hello, When I find a new tweet I will send it to you") 
 
 
 if __name__ == "__main__":
