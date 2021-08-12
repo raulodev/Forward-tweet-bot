@@ -7,11 +7,6 @@ Follow the tweets in real time of a user, in this case the user [@TwitterDev](ht
 
 
 
-### Modules
-*pip install tweepy*
-
-*pip install python-telegram-bot*
-
 Request a [developer account]( https://developer.twitter.com/  ) on Twitter and get access token and API keys
 the approval process takes a day or two
 
