@@ -1,10 +1,10 @@
 ## Forward Tweets to Telegram with a bot
 
-<b>What does this ? </b>
+### <b>What does this ? </b>
 
 Follow the tweets in real time from any user
 
-<b>Variables</b>
+### <b>Variables</b>
 
 `API_KEY` , `API_SECRET_KEY` , `ACCESS_TOKEN` , `ACCESS_SECRET_TOKEN`  
 
@@ -32,7 +32,10 @@ Then generate and save the access tokens and keys
 <a href="https://heroku.com/deploy?template=https://github.com/inDemocratic/Forward-tweet-bot"> <img height="28px" width="164px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku"> </a> 
 </details>
 
+<details>
+<summary><b>More Information </b></summary> <br>
 
 [tweepy documentation](https://docs.tweepy.org/en/latest/streaming.html?highlight=Stream#using-stream)
 
 If you want more information you can rely on [this blog](https://platzi.com/blog/extraer-datos-twitter/)
+</details>
